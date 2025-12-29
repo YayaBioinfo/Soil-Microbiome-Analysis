@@ -19,5 +19,3 @@ Tools for quality control of raw sequencing reads, including adapter trimming, f
 Processed tables (ASV/OTU), taxonomy, and phylogenetic trees can be exported for downstream analyses in R for diversity, visualization, or functional inference.
 
 ---
-
-Kalau mau, aku bisa langsung buat **versi lengkap README** termasuk semua step pipeline QIIME2 yang kamu tulis tadi, tapi tetap ringkas dan rapi seperti template di atas. Apakah mau aku buatkan versi itu?
