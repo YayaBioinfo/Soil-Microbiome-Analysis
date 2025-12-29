@@ -116,7 +116,3 @@ summary(taxa_sums(physeqfull_no_chloroplast))
 summary(taxa_sums(physeqfull_no_chloroplast2))
 ```
 
-
-
-Apakah mau aku buatkan versi itu juga?
-```
