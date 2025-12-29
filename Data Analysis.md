@@ -1,4 +1,4 @@
-Pipeline for **microbiome analysis whith phyloseq**, including data import from QIIME2, tree import, rarefaction curves with iNEXT, and chloroplast filtering.
+Pipeline for **microbiome analysis with phyloseq**, including data import from QIIME2, tree import, rarefaction curves with iNEXT, and chloroplast filtering.
 
 ---
 
