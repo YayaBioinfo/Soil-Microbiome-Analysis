@@ -1,8 +1,6 @@
 # Soil-Microbiome-Profiling
 
-# 🍌 Wild Banana Rhizosphere Microbiome Analysis Pipeline
-
-End-to-end pipeline for **16S rRNA amplicon-based microbiome analysis** of wild banana (*Musa* spp.) rhizosphere soil, from raw sequencing reads through community ecology analysis in R.
+End-to-end pipeline for **16S rRNA amplicon-based microbiome analysis** of rhizosphere soil, from raw sequencing reads through community ecology analysis in R.
 
 ---
 
